@@ -1,0 +1,1318 @@
+{
+    "BTCUSDT": {
+        "qty": "5",
+        "price": "2"
+    },
+    "ETHUSDT": {
+        "qty": "4",
+        "price": "2"
+    },
+    "BNBUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "NEOUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "LTCUSDT": {
+        "qty": "3",
+        "price": "2"
+    },
+    "QTUMUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "ADAUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "XRPUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "EOSUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "IOTAUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "XLMUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "ONTUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "TRXUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "ETCUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "ICXUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "NULSUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "VETUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "LINKUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "WAVESUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "ONGUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "HOTUSDT": {
+        "qty": "0",
+        "price": "6"
+    },
+    "ZILUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "ZRXUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "FETUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "BATUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "XMRUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "ZECUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "IOSTUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "CELRUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "DASHUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "OMGUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "THETAUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "ENJUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "MITHUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "MATICUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "ATOMUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "TFUELUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "ONEUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "FTMUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "ALGOUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "GTOUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "DOGEUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "DUSKUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "ANKRUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "WINUSDT": {
+        "qty": "0",
+        "price": "7"
+    },
+    "COSUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "COCOSUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "MTLUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "TOMOUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "PERLUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "DENTUSDT": {
+        "qty": "0",
+        "price": "6"
+    },
+    "MFTUSDT": {
+        "qty": "0",
+        "price": "6"
+    },
+    "KEYUSDT": {
+        "qty": "0",
+        "price": "6"
+    },
+    "DOCKUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "WANUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "FUNUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "CVCUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "CHZUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "BANDUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "BEAMUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "XTZUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "RENUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "RVNUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "HBARUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "NKNUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "STXUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "KAVAUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "ARPAUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "IOTXUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "RLCUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "CTXCUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "BCHUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "TROYUSDT": {
+        "qty": "0",
+        "price": "6"
+    },
+    "VITEUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "FTTUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "OGNUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "DREPUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "TCTUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "WRXUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "BTSUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "LSKUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "BNTUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "LTOUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "AIONUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "MBLUSDT": {
+        "qty": "0",
+        "price": "6"
+    },
+    "COTIUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "STPTUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "WTCUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "DATAUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "SOLUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "CTSIUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "HIVEUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "CHRUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "ARDRUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "MDTUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "STMXUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "KNCUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "REPUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "LRCUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "IQBUSD": {
+        "qty": "0",
+        "price": "5"
+    },
+    "PNTUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "COMPUSDT": {
+        "qty": "3",
+        "price": "2"
+    },
+    "SCUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "ZENUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "SNXUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "VTHOUSDT": {
+        "qty": "0",
+        "price": "6"
+    },
+    "DGBUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "GBPUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "SXPUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "MKRUSDT": {
+        "qty": "4",
+        "price": "0"
+    },
+    "DCRUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "STORJUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "MANAUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "YFIUSDT": {
+        "qty": "5",
+        "price": "2"
+    },
+    "BALUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "BLZUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "IRISUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "KMDUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "JSTUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "SRMUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "ANTUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "CRVUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "SANDUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "OCEANUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "NMRUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "DOTUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "LUNAUSDT": {
+        "qty": "2",
+        "price": "4"
+    },
+    "RSRUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "PAXGUSDT": {
+        "qty": "4",
+        "price": "0"
+    },
+    "WNXMUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "TRBUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "SUSHIUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "YFIIUSDT": {
+        "qty": "4",
+        "price": "1"
+    },
+    "KSMUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "EGLDUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "DIAUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "RUNEUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "FIOUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "UMAUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "BELUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "WINGUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "CREAMBUSD": {
+        "qty": "3",
+        "price": "1"
+    },
+    "UNIUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "NBSUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "OXTUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "SUNUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "AVAXUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "HNTUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "FLMUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "ORNUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "UTKUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "XVSUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "ALPHAUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "AAVEUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "NEARUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "FILUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "INJUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "AERGOBUSD": {
+        "qty": "0",
+        "price": "4"
+    },
+    "AUDIOUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "CTKUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "AKROUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "AXSUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "HARDUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "DNTUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "STRAXUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "UNFIUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "ROSEUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "AVAUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "XEMUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "PROMBUSD": {
+        "qty": "2",
+        "price": "2"
+    },
+    "SKLUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "GRTUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "JUVUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "PSGUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "1INCHUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "REEFUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "OGUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "ATMUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "ASRUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "CELOUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "RIFUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "BTCSTUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "TRUUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "CKBUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "TWTUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "FIROUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "LITUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "SFPUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "DODOUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "CAKEUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "UFTBUSD": {
+        "qty": "0",
+        "price": "4"
+    },
+    "ACMUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "BADGERUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "FISUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "OMUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "PONDUSDT": {
+        "qty": "2",
+        "price": "5"
+    },
+    "DEGOUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "ALICEUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "LINAUSDT": {
+        "qty": "2",
+        "price": "5"
+    },
+    "PERPUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "SUPERUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "CFXUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "AUTOUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "TKOUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "PUNDIXUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "TLMUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "BTGUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "MIRUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "BARUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "FORTHUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "BAKEUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "BURGERUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "SLPUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "SHIBUSDT": {
+        "qty": "0",
+        "price": "8"
+    },
+    "ICPUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "ARUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "POLSUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "MDXUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "MASKUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "LPTUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "XVGUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "ATAUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "GTCUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "TORNUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "ERNUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "KLAYUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "PHAUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "BONDUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "MLNUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "DEXEUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "C98USDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "CLVUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "QNTUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "FLOWUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "TVKUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "MINAUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "RAYUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "FARMUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "ALPACAUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "QUICKUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "MBOXUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "FORUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "REQUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "GHSTUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "WAXPUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "TRIBEUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "GNOUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "XECUSDT": {
+        "qty": "0",
+        "price": "8"
+    },
+    "ELFUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "DYDXUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "POLYUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "IDEXUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "VIDTUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "GALAUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "ILVUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "YGGUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "SYSUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "DFUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "FIDAUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "FRONTUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "CVPUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "AGLDUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "RADUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "BETAUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "RAREUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "LAZIOUSDT": {
+        "qty": "2",
+        "price": "4"
+    },
+    "CHESSUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "ADXUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "AUCTIONUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "DARUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "BNXUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "MOVRUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "CITYUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "ENSUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "KP3RUSDT": {
+        "qty": "2",
+        "price": "2"
+    },
+    "QIUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "PORTOUSDT": {
+        "qty": "2",
+        "price": "4"
+    },
+    "POWRUSDT": {
+        "qty": "0",
+        "price": "4"
+    },
+    "VGXUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "JASMYUSDT": {
+        "qty": "1",
+        "price": "6"
+    },
+    "AMPUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "PLAUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "PYRUSDT": {
+        "qty": "3",
+        "price": "2"
+    },
+    "RNDRUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "ALCXUSDT": {
+        "qty": "4",
+        "price": "1"
+    },
+    "SANTOSUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "MCUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "BICOUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "FLUXUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "FXSUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "VOXELUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "HIGHUSDT": {
+        "qty": "3",
+        "price": "2"
+    },
+    "CVXUSDT": {
+        "qty": "3",
+        "price": "2"
+    },
+    "PEOPLEUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "OOKIUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "SPELLUSDT": {
+        "qty": "0",
+        "price": "7"
+    },
+    "JOEUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "ACHUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "IMXUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "GLMRUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "LOKAUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "SCRTUSDT": {
+        "qty": "1",
+        "price": "3"
+    },
+    "API3USDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "BTTCUSDT": {
+        "qty": "0",
+        "price": "8"
+    },
+    "ACAUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "ANCUSDT": {
+        "qty": "2",
+        "price": "5"
+    },
+    "XNOUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "WOOUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "ALPINEUSDT": {
+        "qty": "2",
+        "price": "4"
+    },
+    "TUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "ASTRUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "NBTUSDT": {
+        "qty": "0",
+        "price": "5"
+    },
+    "GMTUSDT": {
+        "qty": "1",
+        "price": "5"
+    },
+    "KDAUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "APEUSDT": {
+        "qty": "2",
+        "price": "4"
+    },
+    "BSWUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "BIFIUSDT": {
+        "qty": "3",
+        "price": "1"
+    },
+    "MULTIUSDT": {
+        "qty": "3",
+        "price": "2"
+    },
+    "STEEMUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "MOBUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "NEXOUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "REIUSDT": {
+        "qty": "1",
+        "price": "4"
+    },
+    "GALUSDT": {
+        "qty": "3",
+        "price": "3"
+    },
+    "LDOUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "EPXUSDT": {
+        "qty": "0",
+        "price": "6"
+    },
+    "LUNCBUSD": {
+        "qty": "2",
+        "price": "8"
+    },
+    "OPUSDT": {
+        "qty": "2",
+        "price": "3"
+    },
+    "WBTCBUSD": {
+        "qty": "5",
+        "price": "2"
+    },
+    "LEVERUSDT": {
+        "qty": "0",
+        "price": "6"
+    }
+}
